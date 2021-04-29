@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","source":"https://github.com/sintszz/plugin","website":https://raw.githubusercontent.com/sintszz/plugin/main/animated-status.plugin.js""}*//
+//META{"name":"AnimatedStatus","source":"https://github.com/sintszz/plugin/blob/main/animated-status.plugin.js","website":""}*//
 
 const Editor_Type = {
 	RICH: 0,
